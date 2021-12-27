@@ -1419,6 +1419,7 @@
     text-decoration: none;
     display: block;
     display: -webkit-box;
+    text-align: center;
     -webkit-box-orient: vertical;
     -webkit-line-clamp: 2;
 }
